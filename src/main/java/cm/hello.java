@@ -6,5 +6,6 @@ public class hello {
         System.out.println("hello Git2~");
         System.out.println("hello Git3~");
         System.out.println("hello Git3~");
+        System.out.println("hello branch_01~");
     }
 }
