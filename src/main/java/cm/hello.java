@@ -9,5 +9,6 @@ public class hello {
         System.out.println("hello Git5~");
         System.out.println("hello branch_01~");
         System.out.println("git push test");
+        System.out.println("git pull test");
     }
 }
