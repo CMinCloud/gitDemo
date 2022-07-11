@@ -10,5 +10,6 @@ public class hello {
         System.out.println("hello branch_01~");
         System.out.println("git push test");
         System.out.println("git pull test");
+        System.out.println("git clone test");
     }
 }
